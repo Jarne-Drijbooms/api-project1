@@ -15,14 +15,14 @@ Hieronder vind u een aantal foto's van het opzetten van de docker container en h
 Foto's:
 
 Docker container
-![images_API/Docker_container.png](images_API/Docker_container.png)
+![images_API/Docker_container.JPG](images_API/Docker_container.JPG)
 
 
 
 Docker_hub:
-![images_API/DOcker_hub.png](images_API/DOcker_hub.png)
+![images_API/DOcker_hub.JPG](images_API/DOcker_hub.JPG)
 
 
 
 Okteto Cloud:
-![images_API/okteto.png](images_API/okteto.png)
+![images_API/okteto.JPG](images_API/okteto.JPG)
