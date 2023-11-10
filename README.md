@@ -13,3 +13,16 @@ Daarnaast heb ik ook CORS in mijn API gestoken om zo een iets veiligere API te h
 Hieronder vind u een aantal foto's van het opzetten van de docker container en hoe ik die laat runnen in docker hub en in Okteto Cloud.
 
 Foto's:
+
+Docker container
+![images_API/Docker_container.png](images_API/Docker_container.png)
+
+
+
+Docker_hub:
+![images_API/DOcker_hub.png](images_API/DOcker_hub.png)
+
+
+
+Okteto Cloud:
+![images_API/okteto.png](images_API/okteto.png)
